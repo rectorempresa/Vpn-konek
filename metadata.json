@@ -1,0 +1,6 @@
+{
+  "name": "Konek VPN",
+  "description": "VPN de alta velocidade e segurança com criptografia de ponta a ponta e servidores para Africell, Unitel, Brasil e França.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

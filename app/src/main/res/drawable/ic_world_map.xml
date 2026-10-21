@@ -1,0 +1,77 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="180dp"
+    android:viewportWidth="360"
+    android:viewportHeight="180">
+
+    <!-- North America -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 45,22 C 55,20 72,18 85,24 C 92,27 88,35 95,38 C 102,42 110,38 115,44 C 112,50 100,52 95,58 C 90,64 85,72 80,78 C 76,82 72,92 68,98 C 65,95 62,88 64,82 C 60,78 52,80 50,75 C 46,70 38,72 32,65 C 28,60 30,52 35,48 C 38,45 35,38 32,32 C 30,26 38,24 45,22 Z" />
+
+    <!-- Greenland -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 125,12 C 132,10 142,12 145,18 C 148,24 140,32 135,34 C 130,36 124,30 122,24 C 120,18 122,14 125,12 Z" />
+
+    <!-- Central America / Caribbean -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 68,98 C 72,102 78,105 82,110 C 85,114 88,118 92,122 C 90,123 86,120 84,116 C 80,112 74,108 68,104 Z" />
+
+    <!-- South America -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 94,122 C 102,120 115,122 124,128 C 132,134 136,142 138,150 C 134,158 126,165 120,172 C 115,178 110,185 106,192 C 102,185 100,175 98,165 C 96,155 92,145 90,138 C 90,130 92,124 94,122 Z" />
+
+    <!-- Europe -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 172,25 C 180,22 195,24 205,30 C 208,35 204,42 208,48 C 205,52 198,54 195,60 C 190,62 185,58 180,58 C 175,58 170,62 165,58 C 162,54 165,48 168,44 C 166,38 168,30 172,25 Z" />
+
+    <!-- Scandinavia & UK -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 182,14 C 188,12 194,15 192,22 C 188,25 182,24 180,20 C 180,16 181,14 182,14 Z M 162,34 C 166,32 168,36 166,42 C 162,44 160,40 160,36 C 160,34 161,34 162,34 Z" />
+
+    <!-- Africa -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 170,68 C 180,64 195,65 204,72 C 212,80 216,92 218,102 C 214,115 208,128 200,138 C 195,145 190,152 186,158 C 182,152 180,140 176,130 C 172,120 165,112 162,102 C 160,92 162,82 165,76 C 168,72 168,70 170,68 Z" />
+
+    <!-- Madagascar -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 224,132 C 228,130 230,135 228,142 C 226,146 222,148 220,144 C 220,138 222,134 224,132 Z" />
+
+    <!-- Asia & Russia -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 210,22 C 230,18 260,16 285,20 C 305,24 325,28 335,36 C 330,42 320,44 315,50 C 308,58 312,68 318,74 C 312,78 300,75 292,80 C 285,85 280,95 272,98 C 265,95 260,88 252,86 C 245,84 238,90 230,86 C 225,82 222,74 218,68 C 215,58 212,48 210,38 C 208,30 208,24 210,22 Z" />
+
+    <!-- India & Southeast Asia -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 252,86 C 258,92 262,100 260,108 C 256,114 250,118 246,112 C 244,105 246,95 252,86 Z M 280,96 C 288,102 292,110 290,118 C 285,122 280,120 278,114 C 276,108 278,100 280,96 Z" />
+
+    <!-- Japan -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 334,55 C 338,52 342,58 340,65 C 336,70 332,68 330,62 C 330,58 332,56 334,55 Z" />
+
+    <!-- Indonesia & Philippines -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 295,124 C 305,122 315,126 312,132 C 305,135 295,132 295,124 Z M 315,115 C 320,112 324,118 320,124 C 316,126 314,120 315,115 Z" />
+
+    <!-- Australia -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 308,142 C 322,138 340,142 348,152 C 352,160 348,170 338,175 C 326,178 312,176 305,168 C 300,160 302,148 308,142 Z" />
+
+    <!-- New Zealand -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 352,170 C 356,168 358,174 355,180 C 352,182 350,178 350,174 C 350,172 351,170 352,170 Z" />
+
+</vector>
